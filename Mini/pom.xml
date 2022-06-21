@@ -182,7 +182,7 @@
 		<dependency>
 			<groupId>mysql</groupId>
 			<artifactId>mysql-connector-java</artifactId>
-			<version>8.0.20</version>
+			<version>8.0.28</version>
 		</dependency>
 		
 		<!-- 입력값 검증 라이브러리 의존 관계 정의 -->
